@@ -6,6 +6,7 @@ public class DemoApp {
 		// TODO Auto-generated method stub
 		System.out.println("Welcome to Git hub");
 		System.out.println("Git push successful");
+		System.out.println("Git Fetch");
 	}
 
 }
